@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "NewDonutBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "NewDonut.aternos.me",
     "port": 20969,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
